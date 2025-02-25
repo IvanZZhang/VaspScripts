@@ -5,7 +5,7 @@ Created on Mon Nov 16 2020
 for vabrational frequency calculating the correction terms of G
 @author: Yanyang Qin, XJTU
 
-Rewritten on Feb 25 2025, with Python3.7, By yfZhang
+Rewritten on Feb 25 2025, with Python3.7, By Yifan Zhang
 """
 # Ref:https://www.bigbrosci.com/2018/11/07/ex69/
 # email: 750881345@qq.com
