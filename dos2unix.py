@@ -34,5 +34,5 @@ def format_file(file, to_format ='unix2dos'):
     print('Successful formatting!')
 
 if __name__ == '__main__':
-    file = 'TEST_get_d/REget_d_pz_BC.py'
+    file = 'D:/Data/大学学习/计算化学与人工智能/苏亚琼课题组工作/毕业设计FeN4X/VASP input/Eform/Br/INCAR'
     format_file(file, 'dos2unix')
